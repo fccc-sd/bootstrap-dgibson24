@@ -1,0 +1,233 @@
+body
+{
+	background-color: #00236D;
+}
+
+#container
+{
+	background-color: #002D8E;
+	margin: 0 auto;
+}
+
+header
+{
+	background-color: #002095;
+	text-align: center;
+	font: normal bold 2em Product Sans;
+	color: #FFB746;
+	height: 50px;
+	padding: 0px;
+	padding-top: 10px;
+	margin-bottom: 0px; 
+	background: url(images/bg.png) #0a335c top left repeat fixed;
+}
+
+nav
+{
+	background-color: #FFB746;
+	color: #002095;
+	text-align: center;
+	line-height: 100%;
+	display: block;
+	padding: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+nav li
+{
+	display: inline;
+	color: #002095;
+	list-style-type: none;
+	padding-right: 40px;
+	font: normal none 1em Georgia, Didot, New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+nav a:Link
+{
+	text-decoration: none;
+	color: #002095;
+}
+
+nav a:Hover, nav a:Active
+{
+	text-decoration: underline;
+}
+
+nav a:Active
+{
+	color: #2D75CB;
+}
+
+nav a:visited
+{
+	color: #002095;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+footer
+{
+	background-color: #FF9427;
+	color: #002095;
+	padding: 5px;
+	clear: both;
+}
+
+button, span
+{
+	color: #002095;
+}
+
+a
+{
+	padding: 5px;
+}
+
+img
+{
+	float: left;
+	margin-right: 25px;
+}
+
+h1
+{
+	text-align: center;
+	color:#ff9d00;
+	text-indent: 0em;
+	line-height: 1em;
+	font: normal bold 2em Georgia, Didot, New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+h2, h3
+{
+	text-indent: 0em;
+	color:#ff9d00;
+	line-height: .5em;
+	font: normal bold 1em Georgia, Didot, New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+h4
+{
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+	line-height: 1em;
+	color: #002095;
+	font: normal bold 1em Georgia, Didot, New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+h6
+{
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+	color:#FFB746;
+}
+
+p a:Link
+{
+	text-decoration: underline;
+	color:#FFB746;
+}
+
+p a:Hover, p a:Active
+{
+	text-decoration: underline;
+}
+
+p a:Active
+{
+	color:#fabe5c;
+}
+
+p a:visited
+{
+	color:#FFB746;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+p
+{
+	padding: 0px;
+	word-spacing: 0em;
+	float: left;
+	color:#ffb63f;
+	text-transform: none;
+	letter-spacing: 0em;
+	text-indent: 1em;
+	line-height: 1em;
+	font: normal normal .85em Trebuchet MS, Gill Sans, sans-serif;
+}
+
+ul
+{
+	color:#ffb63f;
+	list-style-type: circle;
+	list-style-position: outside;
+	word-spacing: .03em;
+	text-transform: none;
+	letter-spacing: 0em;
+	font: normal normal .85em Trebuchet MS, Gill Sans, sans-serif;
+}
+
+iframe
+{
+	text-align: center;
+	border: none;
+	color:#ffb63f;
+}
+
+a, body
+{
+	font-size: 1em;
+	color:#ffb63f;
+	text-transform: none;
+	letter-spacing: 0em;
+	word-spacing: .03em;
+	text-indent: 0em;
+	line-height: 1.5em;
+	font-style: normal;
+	font-weight: normal;
+}
+
+tr, th, td
+{
+	border: solid 2px #ff5e00;
+	color:#FFB746;
+	padding: 1px;
+	text-align: center;
+	vertical-align: top;
+}
+
+th
+{
+	color:#FFB746;
+}
+
+caption
+{
+	caption-side: top;
+	font-weight: bold;
+	margin: 5px;
+	color:#ff5e00;
+}
+
+table
+{
+	border: solid 2px;
+	color:#FFB746;
+	border-collapse: collapse;
+}
+
+figcaption, figure
+{
+	color:#ffb63f;
+}
+
+h5
+{
+	text-align: center;
+	color: #002095;
+}
