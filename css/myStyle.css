@@ -74,11 +74,6 @@ footer
 	clear: both;
 }
 
-button, span
-{
-	color: #002095;
-}
-
 a
 {
 	padding: 5px;
@@ -192,38 +187,19 @@ a, body
 	font-weight: normal;
 }
 
-tr, th, td
-{
-	border: solid 2px #ff5e00;
-	color:#FFB746;
-	padding: 1px;
-	text-align: center;
-	vertical-align: top;
-}
-
-th
-{
-	color:#FFB746;
-}
-
 caption
 {
 	caption-side: top;
 	font-weight: bold;
 	margin: 5px;
 	color:#ff5e00;
-}
-
-table
-{
-	border: solid 2px;
-	color:#FFB746;
-	border-collapse: collapse;
+	float: right;
 }
 
 figcaption, figure
 {
 	color:#ffb63f;
+	float: right;
 }
 
 h5
