@@ -114,7 +114,6 @@ h4
 
 h6
 {
-	clear: both;
 	margin: 0px;
 	padding: 0px;
 	color:#FFB746;
@@ -199,7 +198,6 @@ caption
 figcaption, figure
 {
 	color:#ffb63f;
-	float: right;
 }
 
 h5
